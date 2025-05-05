@@ -52,7 +52,7 @@ Redis caching for fast product retrieval.
 
 Frontend:
 
-React.js (Next.js for SEO & performance optimization)
+React.js  SEO & performance optimization
 
 TailwindCSS / Material UI (Responsive UI)
 
